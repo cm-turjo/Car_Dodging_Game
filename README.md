@@ -46,29 +46,32 @@ To run the game file
 ## Exe Installation Screenshots
 
 - Run the exe file
-![App Screenshot]("G:\Academic\4-1 Project Works\CarGame\SS\8.png")
+
+![8](https://github.com/cm-turjo/Car_Dodging_Game/assets/67799082/17843886-09d8-4e80-99dc-c241d71cf581)
+
 - Choose wether to create desktop shortcut or not
-![App Screenshot]("G:\Academic\4-1 Project Works\CarGame\SS\9.png")
+![9](https://github.com/cm-turjo/Car_Dodging_Game/assets/67799082/54024548-4acb-4a9c-8c75-56a0ec78e274)
 - Hit install button
-![App Screenshot]("G:\Academic\4-1 Project Works\CarGame\SS\10.png")
+![10](https://github.com/cm-turjo/Car_Dodging_Game/assets/67799082/2709b702-1ade-4b14-a1a4-f49a703ac3ce)
 - Installation Progress
-![App Screenshot]("G:\Academic\4-1 Project Works\CarGame\SS\11.png")
+![11](https://github.com/cm-turjo/Car_Dodging_Game/assets/67799082/2b1a4fda-ab32-4811-b4d0-e0bcc947f0fd)
 - Launch the game 
-![App Screenshot]("G:\Academic\4-1 Project Works\CarGame\SS\12.png")
+![12](https://github.com/cm-turjo/Car_Dodging_Game/assets/67799082/8e89c900-eb73-4460-b67d-193fceedb0da)
 
 ## Game Screenshorts
 
-![App Screenshot]("G:\Academic\4-1 Project Works\CarGame\SS\1.png")
-![App Screenshot]("G:\Academic\4-1 Project Works\CarGame\SS\2.png")
-![App Screenshot]("G:\Academic\4-1 Project Works\CarGame\SS\3.png")
-![App Screenshot]("G:\Academic\4-1 Project Works\CarGame\SS\4.png")
+![1](https://github.com/cm-turjo/Car_Dodging_Game/assets/67799082/499664fc-fa4f-4cc5-a81e-dcb5d4db7ac6)
+![2](https://github.com/cm-turjo/Car_Dodging_Game/assets/67799082/2ff8a2fe-baaf-4883-bd24-c2741cff4169)
+![3](https://github.com/cm-turjo/Car_Dodging_Game/assets/67799082/9c228b66-6407-4f21-84fb-c013e5d12a17)
+![4](https://github.com/cm-turjo/Car_Dodging_Game/assets/67799082/bf17a9d4-0892-4692-aee9-19d6404f9baa)
+
 
 ## Game uninstallation Screenshots
 
 - Go to the directory where the game is installed
 - Run unins000.exe
-![App Screenshot]("G:\Academic\4-1 Project Works\CarGame\SS\5.png")
+![5](https://github.com/cm-turjo/Car_Dodging_Game/assets/67799082/a257c96f-cb3c-4182-88a0-52df81a82475)
 - Follow Instructions
-![App Screenshot]("G:\Academic\4-1 Project Works\CarGame\SS\6.png")
+![6](https://github.com/cm-turjo/Car_Dodging_Game/assets/67799082/ebf2ac03-0a10-4cf4-8902-98ad9ec3f37c)
 
-![App Screenshot]("G:\Academic\4-1 Project Works\CarGame\SS\7.png")
+![7](https://github.com/cm-turjo/Car_Dodging_Game/assets/67799082/c6523c2d-ea1b-4b53-8a9f-495c25dad5cb)
